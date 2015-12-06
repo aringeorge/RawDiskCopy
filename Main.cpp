@@ -6,6 +6,8 @@
 
 using std::string;
 
+// Note to self... update this for windows 10 as well, if there are differences.
+
 int main(int argc, char *argv[]) 
 {
    printf("\n%s Version 0.99b For Windows.\n", argv[0]);
